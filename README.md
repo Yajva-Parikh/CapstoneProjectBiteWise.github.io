@@ -1,2 +1,1 @@
 # CapstoneProjectBiteWise.github.io
-BiteWise
