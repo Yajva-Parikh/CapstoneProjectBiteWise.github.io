@@ -1,4 +1,3 @@
-# CapstoneProjectBiteWise.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
